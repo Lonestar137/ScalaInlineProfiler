@@ -4,3 +4,4 @@ target/
 .metals/
 *.csv
 *.data
+*.svg
